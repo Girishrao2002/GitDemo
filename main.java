@@ -7,5 +7,10 @@ public class Adder{
 
 	     System.out.println(sum);
 
+	     int x=6;
+	     int y=3;
+	     int diff=x-y;
+	     System.out.println(diff
+
    }
 }
